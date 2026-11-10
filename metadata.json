@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Gestión de Marketing Inmobiliario - Lotes",
+  "description": "Sistema de seguimiento estratégico y medición de causas para marketing inmobiliario de venta de lotes, con matrices operativas, embudo comercial, capacitaciones, herramientas digitales, redes sociales, alertas automatizadas, dashboard interactivo y gestión documental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
